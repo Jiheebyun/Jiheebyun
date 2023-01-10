@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jihee-Byun,Front-end-developer&fontSize=40" />
-![header](https://capsule-render.vercel.app/api?type=slice)
+
 
 
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
