@@ -26,7 +26,7 @@ Contact : <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_b
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=10100F"/>
 
 
-OS: <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=10100F"/>
+OS:    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=10100F"/>
 
 
 
