@@ -21,7 +21,7 @@ Contact : <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_b
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=10100F"/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=10100F"/>
-<img src="https://img.shields.io/badge/JavaScript-green?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=10100F"/>
 
 
 
