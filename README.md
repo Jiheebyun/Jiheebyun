@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/react-0E0E0E?style=plastic&logo=appveyor&logo=React&logoColor=CCFFCC"/></a>
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 
 
 
