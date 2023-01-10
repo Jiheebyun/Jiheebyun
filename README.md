@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 
 <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#0A66C2&logoColor=FF9933"/></a>
