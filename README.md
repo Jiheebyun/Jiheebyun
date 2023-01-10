@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-#EA4335
+
 <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#0A66C2&logoColor=FF9933"/></a>
 
 <a href="jh910805jh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#EA4335&logoColor=D49D6D"/></a>
@@ -24,3 +25,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiheebyun&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
