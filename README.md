@@ -28,7 +28,7 @@ Contact : <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_b
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=10100F"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=10100F"/>
-Management Tool: <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat&logo=Jira Software&logoColor=10100F"/>
+Management Tool: <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat&logo=Jira Software&logoColor=10100F"/><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=10100F"/>
 
 
 
