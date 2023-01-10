@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jihee-Byun,Front-end-developer&fontSize=40" />
 ![header](https://capsule-render.vercel.app/api?type=slice)
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/react-0E0E0E?style=plastic&logo=appveyor&logo=#61DAFB&logoColor=CCFFCC"/></a>
+
+
+
 
 
 <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#0A66C2&logoColor=FF9933"/></a>
