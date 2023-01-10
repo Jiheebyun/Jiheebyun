@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#0A66C2&logoColor=FF9933"/></a>
-<a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#61DAFB&logoColor=FF9933"/></a>
+<a href="jh910805jh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#EA4335&logoColor=FF9933"/></a>
 <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#339933&logoColor=FF9933"/></a>
 
 
