@@ -30,5 +30,5 @@ Contact : <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_b
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiheebyun&show_icons=true&theme=radical)
+
 
