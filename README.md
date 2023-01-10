@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#0A66C2&logoColor=FF9933"/></a>
-
+<a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#0A66C2&logoColor=FF9933"/></a>
+<a href="https://www.linkedin.com/in/jihee-byun-18b314186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=plastic&logo=appveyor&logo=#0A66C2&logoColor=FF9933"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiheebyun&show_icons=true&theme=radical)
